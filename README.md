@@ -1,6 +1,6 @@
 # Transparent Public Funding Tracker
 
-## Project Description
+## Project Description.
 
 The Transparent Public Funding Tracker is a blockchain-based solution deployed on Core Chain that provides complete transparency and accountability for government funds. This smart contract system tracks how public funds are allocated, managed, and spent in real-time, creating an immutable and publicly accessible record of all financial transactions related to government projects.
 
